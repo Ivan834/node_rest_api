@@ -1,0 +1,14 @@
+{
+	"name":"mean2",
+	"version":"0.0.2",
+	"dependencies": {
+		"express":"~4.13.3",
+		"morgan":"~1.6.1",
+		"compression":"~1.5.2",
+		"body-parser":"~1.13.3",
+		"method-override": "~2.3.5",
+		"express-session":"~1.11.3",
+		"ejs":"~1.0.0",
+		"mongoose":"^4.1.7"
+	}
+}
